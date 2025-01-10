@@ -6,7 +6,7 @@ Welcome to the **Comment Toxicity Detection** project! This repository contains 
 ## Project Overview
 The goal of this project is to build a robust model capable of identifying toxic comments. The application is designed to foster positive online interactions by filtering out harmful language. The model has been trained and evaluated using datasets from the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 
-## Features
+## 🔧 Features
 - **Custom-Trained Model**: The model was trained from scratch using the provided dataset and saved for later use.
 - **Interactive Interface**: Uses [Gradio](https://gradio.app/) to provide an easy-to-use web interface for testing the model.
 - **Multi-label Classification**: Detects various categories of toxicity such as:
@@ -24,7 +24,7 @@ The goal of this project is to build a robust model capable of identifying toxic
 - **`.gradio/`**: Configuration files for the Gradio interface.
 - **`.gitignore`**: Specifies intentionally untracked files to ignore.
 
-## Installation
+## 💽 Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/ArianDilfanian/CommentToxicity.git
@@ -43,13 +43,13 @@ The goal of this project is to build a robust model capable of identifying toxic
 2. Open the displayed URL in your browser to test the model.
 3. Input a comment to check for toxicity categories.
 
-## Dataset
+## 💿 Dataset
 The dataset used in this project is publicly available at Kaggle: [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 
-## Model Training
+## 🏋️‍♂️ Model Training
 The model was trained from scratch using the dataset provided by the challenge. Detailed training steps, including preprocessing, training, and evaluation, can be found in the `Toxicity2.ipynb` file.
 
-## Contributing
+## 💪 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions or improvements.
 
 
@@ -63,7 +63,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 Feel free to reach out if you have any questions or feedback about this project!
 ![Screenshot 2025-01-10 185056](https://github.com/user-attachments/assets/731d9682-3820-451b-bdfc-32e68a572f9a)
 
-## Video
+## 🎥 Video
 
 
 
