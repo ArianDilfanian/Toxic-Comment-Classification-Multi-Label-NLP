@@ -1,7 +1,6 @@
 # Comment Toxicity Detection
 
-
-Welcome to the **Comment Toxicity Detection** project! This repository contains tools and resources for detecting toxic language in text comments using machine learning techniques.
+This repository contains tools and resources for detecting toxic language in text comments using machine learning techniques.
 
 ## Project Overview
 The goal of this project is to build a robust model capable of identifying toxic comments. The application is designed to foster positive online interactions by filtering out harmful language. The model has been trained and evaluated using datasets from the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
@@ -47,7 +46,7 @@ The goal of this project is to build a robust model capable of identifying toxic
 The dataset used in this project is publicly available at Kaggle: [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 
 ## 🏋️‍♂️ Model Training
-The model was trained from scratch using the dataset provided by the challenge. Detailed training steps, including preprocessing, training, and evaluation, can be found in the `Toxicity2.ipynb` file.
+The model was trained from scratch using the dataset provided by the challenge. Detailed training steps, including preprocessing, training (recurrent neural network Lstm and sigmoid), and evaluation, can be found in the `Toxicity2.ipynb` file.
 
 ## 💪 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions or improvements.
@@ -60,7 +59,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ---
 
-Feel free to reach out if you have any questions or feedback about this project!
+Feel free to reach out if you have any questions or feedback about this project
 ![Screenshot 2025-01-10 185056](https://github.com/user-attachments/assets/731d9682-3820-451b-bdfc-32e68a572f9a)
 
 ## 🎥 Video
